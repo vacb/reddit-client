@@ -1,4 +1,4 @@
-#Reddit Client
+# Reddit Client
 Codecademy portfolio project, building an application for Reddit using React and Redux. The application will allow users to view and search posts and comments provided by the Reddit API.
 
 Status: in progress
